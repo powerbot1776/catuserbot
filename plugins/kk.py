@@ -15,6 +15,6 @@ async def _(event):
         r = random.randint(0, 3)
         logger.debug(r)
         if r == 0:
-            await event.edit("┏━━━┓\n┃┏━━┛\n┃┗━━┓\n┃┏━━┛\n┃┃\n┗┛")
+            await event.edit("MA\n┃┏━━┛MAT\n┃┗━━┓\n┃┏━━┛\n┃┃\n┗┛")
         else:
-            await event.edit("╭━━━╮\n┃╭━━╯\n┃╰━━╮\n┃╭━━╯\n┃┃\n╰╯")
+            await event.edit("╭━━━╮\n┃╭━━╯CHUDAO\n┃╰━━╮\n┃╭━━╯\n┃┃\n╰╯")
